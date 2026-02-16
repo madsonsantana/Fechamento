@@ -1,0 +1,5 @@
+{
+  "name": "Gestão de Mapas Pro",
+  "description": "Uma plataforma avançada para monitoramento em tempo real de mapas logísticos, integrando dados financeiros, operacionais e de rastreio através de arquivos CSV.",
+  "requestFramePermissions": []
+}
